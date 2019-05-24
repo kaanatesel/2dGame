@@ -1,4 +1,4 @@
-package dev.codemore.tilegame.gfx;
+package kaanatesel.game.display;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
